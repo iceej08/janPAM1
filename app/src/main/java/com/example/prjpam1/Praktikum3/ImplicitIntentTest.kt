@@ -1,4 +1,4 @@
-package com.example.prjpam1
+package com.example.prjpam1.Praktikum3
 
 import android.content.Context
 import android.content.Intent

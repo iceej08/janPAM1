@@ -1,4 +1,4 @@
-package com.example.prjpam1
+package com.example.prjpam1.Praktikum3
 
 import android.util.Log
 import androidx.compose.foundation.layout.Arrangement
